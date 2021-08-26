@@ -1,12 +1,5 @@
-# React COVID Tracker
-
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
-
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+As we know, Corona Virus is spreading through every part of the world, I figured we can play a role in informing others about the severity of the current situation and spread awareness by visualizing  Covid 19 raw data collected from all over the world.
+The data that I have used includes number of Coronavirus cases, number of deaths and number of recovered people. The web application is created using ReactJS, Material UI, Leaflet library, ChartJS and NumeralJS.
 
 ## Available Scripts
 
